@@ -1,4 +1,4 @@
-# fastf1-telemetry-explorer
+# Fastf1-Telemetry-Explorer
 🏎️ Interactive F1 telemetry dashboard built with FastF1 &amp; Streamlit — speed traces, traction circles, lap overlays and gear maps from real race data.
 # 🏎️ FastF1 Telemetry Explorer
 
