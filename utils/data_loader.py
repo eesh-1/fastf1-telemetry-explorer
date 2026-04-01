@@ -1,7 +1,9 @@
+import os
 import fastf1
 import streamlit as st
 
-# Enable local cache so repeated loads are instant
+# Create cache directory if it doesn't exist
+os.makedirs("cache", exist_ok=True)
 fastf1.Cache.enable_cache("cache")
 
 
